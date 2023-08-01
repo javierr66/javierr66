@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Suarez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<h3>Sigo en aprendiendo y realizandome retos para mejorar</h3>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@javier0203su" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@javier0203su" height="30" width="40" /></a>
