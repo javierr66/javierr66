@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Suarez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h3>Sigo en aprendiendo y realizandome retos para mejorar</h3>
+<h3>Sigo aprendiendo y realizandome retos para mejorar</h3>
 <br>
 
 <h3 align="left">Connect with me:</h3>
