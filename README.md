@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Javier Suarez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+
 
 <h3>Sigo aprendiendo y realizandome retos para mejorar</h3>
 <br>
